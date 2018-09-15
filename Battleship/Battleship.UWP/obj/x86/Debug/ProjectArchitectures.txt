@@ -1,0 +1,1 @@
+C:\Users\Kamil\source\visual_studio\Battleship\Battleship\Battleship.UWP\Battleship.UWP.csproj;x86

@@ -1,0 +1,12 @@
+C:\Users\Kamil\source\visual_studio\Battleship\Battleship\Battleship\bin\Debug\netstandard2.0\Battleship.deps.json
+C:\Users\Kamil\source\visual_studio\Battleship\Battleship\Battleship\bin\Debug\netstandard2.0\Battleship.dll
+C:\Users\Kamil\source\visual_studio\Battleship\Battleship\Battleship\bin\Debug\netstandard2.0\Battleship.pdb
+C:\Users\Kamil\source\visual_studio\Battleship\Battleship\Battleship\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kamil\source\visual_studio\Battleship\Battleship\Battleship\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kamil\source\visual_studio\Battleship\Battleship\Battleship\obj\Debug\netstandard2.0\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\visual_studio\Battleship\Battleship\Battleship\obj\Debug\netstandard2.0\Battleship.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\visual_studio\Battleship\Battleship\Battleship\obj\Debug\netstandard2.0\Battleship.AssemblyInfo.cs
+C:\Users\Kamil\source\visual_studio\Battleship\Battleship\Battleship\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kamil\source\visual_studio\Battleship\Battleship\Battleship\obj\Debug\netstandard2.0\Battleship.dll
+C:\Users\Kamil\source\visual_studio\Battleship\Battleship\Battleship\obj\Debug\netstandard2.0\Battleship.pdb
+C:\Users\Kamil\source\visual_studio\Battleship\Battleship\Battleship\obj\Debug\netstandard2.0\Battleship.csprojAssemblyReference.cache

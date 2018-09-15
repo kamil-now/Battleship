@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Battleship"
+             x:Class="Battleship.MainPage"
+             HeightRequest="1200"
+             WidthRequest="600"
+             x:Name="Page">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid x:Name="EnemyGrid"
+              HorizontalOptions="Center"
+              HeightRequest="{Binding Width}"
+              Margin="5"
+              IsEnabled="{Binding Source=Page, Path= PlayerGamePanel.Initialized}"
+              BindingContext="{Binding Source=Page, Path= AIGamePanel}" />
+        <Grid x:Name="MainGrid"
+              HorizontalOptions="Center"
+              HeightRequest="{Binding Source=EnemyGrid, Path=Width}"
+              Margin="5"
+              BindingContext="{Binding Source=Page, Path= PlayerGamePanel}"
+              Grid.Row="1" />
+    </Grid>
+
+</ContentPage>
